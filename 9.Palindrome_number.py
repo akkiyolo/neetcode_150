@@ -23,7 +23,7 @@ def isPalindrome(self, x):
         :type x: int
         :rtype: bool
         """
-                # Negative numbers are not palindromes
+         # Negative numbers are not palindromes
         if x < 0:
             return False
         
