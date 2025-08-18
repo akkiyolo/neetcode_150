@@ -20,6 +20,7 @@ class Solution(object):
         """
         # Create a set from nums1 to eliminate duplicates and enable O(1) lookup
         set1 = set(nums1)
+        
         # Create result set to store intersection
         result = set()
         
